@@ -20,6 +20,5 @@ The project will involve the following steps:
 
    5. Ranking Algorithm: Develop a ranking algorithm that considers various factors derived from user reviews, such as sentiment scores, feature ratings, and review recency. Experiment with different ranking methods, such as weighted averages or machine learning algorithms, to determine the most effective approach.
 
-   6. Visualization and User Interface: Create a user-friendly interface that allows users to explore the ranked list of bakeries. Present the rankings along with detailed information about each bakery, including average ratings, sentiment analysis results, and selected user reviews. Visualizations, such as word clouds or bar charts, can be used to highlight key aspects of the rankings.
+   6. Visualization: Visualizations, such as word clouds or bar charts, can be used to highlight key aspects of the rankings.
 
-   7. Evaluation and Validation: Validate the ranking system by comparing it with ground truth data or expert opinions. Assess the performance of the system by conducting user surveys and collecting feedback to measure user satisfaction and the system's ability to capture the bakery experience accurately.
